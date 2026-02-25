@@ -209,4 +209,7 @@ __marimo__/
 data/
 
 *.pth
+*.pt
+
+*.txt
 
