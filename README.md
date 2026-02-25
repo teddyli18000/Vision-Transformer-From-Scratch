@@ -30,5 +30,15 @@ python inference.py
 ```
 
 
-## version
-v1.0 Architecture
+
+
+
+## Historical version
+
+### For major version update history, see ["version-log.md"](./version-log.md)
+
+* **v2.0** -feat: add predict.py to support interactive input 
+* **v1.9** -docs: standardize document
+
+
+* **v1.0** Architecture
